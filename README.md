@@ -1,6 +1,6 @@
 # 🧪 JS Visual Lab
 An interactive playground to visualize high-level JavaScript engine concepts, performance patterns, and resource management.
-Checkout the [Demo]() Here!
+Checkout the [Demo](https://js-perf-visualizer.vercel.app/) Here!
 
 ## 🚀 Key Modules
 
