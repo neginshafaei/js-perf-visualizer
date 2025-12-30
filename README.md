@@ -29,7 +29,7 @@ Checkout the [Demo](https://js-perf-visualizer.vercel.app/) Here!
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/neginshafaei/js-visual-lab.git
+   git clone https://github.com/neginshafaei/js-perf-visualizer.git
    ```
 2. **Install dependencies:**
    ```bash
